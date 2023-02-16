@@ -8,5 +8,7 @@
 [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufkaraasln@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yusufkaraasln)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yusufkaraasln)
+[![Medium](https://img.shields.io/badge/-Medium-white?style=for-the-badge&logo=Medium&logoColor=000)](https://www.medium.com/@yusufkaraasln)
 [![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=000)](https://www.codewars.com/users/yusufkaraasln)
+
 
