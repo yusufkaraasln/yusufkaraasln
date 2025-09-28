@@ -1,5 +1,5 @@
 <h1 align="center">Hello, It's Yusuf. 👋🏻</h1>
-<p style="margin-left: 20%; margin-right: 20%" align="center">Full Stack Developer, open source and free software supporter, 22 years old.
+<p style="margin-left: 20%; margin-right: 20%" align="center">Full Stack Developer, open source and free software supporter.
 </p>
 
 ## 🌐 Reach Me
